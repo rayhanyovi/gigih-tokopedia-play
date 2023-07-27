@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64c2c781929abb279031de3d"
+  },
+  "product_id": {
+    "$oid": "64c2c7da849d31ec9f0e2d3b"
+  },
+  "price": 20000,
+  "rating": 9,
+  "product_url": "https://www.google.com",
+  "video_id": {
+    "$oid": "64c2c9bb849d31ec9f0e2d4b"
+  },
+  "product_name": "SEPATU PUTIH"
+},
+{
+  "_id": {
+    "$oid": "64c2ca36849d31ec9f0e2d56"
+  },
+  "product_id": {
+    "$oid": "64c2c7da849d31ec9f0e2d3b"
+  },
+  "price": 20500,
+  "rating": 9,
+  "product_url": "https://www.google.com",
+  "video_id": {
+    "$oid": "64c2c9bb39d31e52f0e24552"
+  },
+  "product_name": "KEMEJA PUTIH"
+},
+{
+  "_id": {
+    "$oid": "64c2d140849d31ec9f0e2d78"
+  },
+  "product_id": {
+    "$oid": "64c2c7da849d31ec9f0e2d3b"
+  },
+  "price": 25000,
+  "rating": 7,
+  "product_url": "https://www.google.com",
+  "video_id": {
+    "$oid": "64c2c9bb39d31e52f0e24552"
+  },
+  "product_name": "KEMEJA GARIS-GARIS"
+}]
