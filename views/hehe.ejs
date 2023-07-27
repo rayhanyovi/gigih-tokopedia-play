@@ -1,0 +1,31 @@
+<!-- views/video_detail.ejs -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Video Detail</title>
+  </head>
+  <body>
+    <h1><%= video.title %></h1>
+    <img src="<%= video.thumbnail_url %>" alt="" />
+    <h1><%= video.shop %></h1>
+    <p>Promo ID: <%= video.promo_id %></p>
+
+    <h2>Products</h2>
+    <ul>
+      <% products.forEach((product) => { %>
+      <li>
+        <a href="<%= product.product_url %>" target="_blank"
+          >><%= product.product_name %></a
+        >
+      </li>
+      <% }); %>
+    </ul>
+
+    <h2>Comments</h2>
+    <ul>
+      <% comments.forEach((comment) => { %>
+      <li><%= comment.comment %></li>
+      <% }); %>
+    </ul>
+  </body>
+</html>
