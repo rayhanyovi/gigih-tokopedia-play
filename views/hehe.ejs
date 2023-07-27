@@ -27,5 +27,13 @@
       <li><%= comment.comment %></li>
       <% }); %>
     </ul>
+
+    <form action="/submit-comment" method="post">
+      <p>Username</p>
+      <input type="text" name="username" id="username" />
+      <p>Komentar</p>
+      <input type="text" name="comment" id="comment" />
+      <button type="submit">Submit Comment</button>
+    </form>
   </body>
 </html>
