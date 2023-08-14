@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Switch, useLocation } from "react-router-dom";
+import { Route, Switch, useLocation, Redirect } from "react-router-dom";
 import { Breadcrumb, Layout, Menu, theme } from "antd";
 import Home from "../pages/Home.jsx";
 import { Link } from "react-router-dom";
@@ -42,8 +42,9 @@ const MainLayout = () => {
           padding: "10px 50px",
         }}>
         <Switch>
-          <Route path="/home" component={Home} />
-          <Route path="/video/:id" component={VideoDetails} />
+          <Route exact path="/home" component={Home} />
+          <Route path="/video/:id" component={VideoDetails} />{" "}
+          <Redirect to="/home" />
         </Switch>
       </Content>
       <Footer

@@ -5,7 +5,7 @@ const { Meta } = Card;
 const CardProduct = ({ product }) => {
   return (
     <Space direction="vertical" size={16}>
-      <Link to="">
+      <a href={`${product.product_url}`}>
         {" "}
         {/* Tambahkan Link ke /videoDetails */}
         <Card
@@ -27,7 +27,7 @@ const CardProduct = ({ product }) => {
             description={`⭐ ${product.rating}`}
           />
         </Card>
-      </Link>
+      </a>
     </Space>
   );
 };
