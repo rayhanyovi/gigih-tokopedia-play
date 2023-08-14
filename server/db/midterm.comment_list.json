@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "64c2c7c7929abb279031de3e"
+  },
+  "username": "Udin",
+  "comment": "Sepatunya Bagus!!!",
+  "created_at": {
+    "$date": "2023-12-31T00:00:00.000Z"
+  },
+  "profile_pict": "",
+  "video_id": {
+    "$oid": "64c2c9bb849d31ec9f0e2d4b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c2d164849d31ec9f0e2d7d"
+  },
+  "username": "Udin",
+  "comment": "Kemeja yang keren!!!",
+  "created_at": {
+    "$date": "2023-12-31T00:00:00.000Z"
+  },
+  "profile_pict": "",
+  "video_id": {
+    "$oid": "64c2c9bb39d31e52f0e24552"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c2d168849d31ec9f0e2d7e"
+  },
+  "username": "Burhan",
+  "comment": "AKu mau beli!!!",
+  "created_at": {
+    "$date": "2023-12-31T00:00:00.000Z"
+  },
+  "profile_pict": "",
+  "video_id": {
+    "$oid": "64c2c9bb39d31e52f0e24552"
+  }
+},
+{
+  "_id": {
+    "$oid": "64c2dd70c2fecf5ce7a07767"
+  },
+  "username": "rayhanyovi",
+  "comment": "xxx",
+  "__v": 0
+}]
