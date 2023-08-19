@@ -12,10 +12,13 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cors());
 mongoose
-  .connect("mongodb://localhost:27017/midterm", {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  })
+  .connect(
+    "mongodb+srv://rayhanyovi:0o9I1Tg4V1C295YO@cluster0.hoyzeor.mongodb.net/midterm",
+    {
+      useNewUrlParser: true,
+      useUnifiedTopology: true,
+    }
+  )
   .then(() => console.log("Koneksi ke MongoDB berhasil"))
   .catch((err) => console.error("Koneksi ke MongoDB gagal", err));
 

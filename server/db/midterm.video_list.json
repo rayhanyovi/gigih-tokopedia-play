@@ -3,22 +3,58 @@
     "$oid": "64c2b47b929abb279031de3b"
   },
   "video_id": {
-    "$oid": "64c2c9bb849d31ec9f0e2d4b"
+    "$oid": "64c2b47b929abb279031de3b"
   },
-  "thumbnail_url": "https://asset-2.tstatic.net/jabar/foto/bank/images/live-streamer-laf-project.jpg",
+  "thumbnail_url": "https://img.youtube.com/vi/lB_3iT3tpqk/0.jpg",
   "title": "SEPATU MURAH BERKUALITAS!!!",
   "shop": "Toko Sepatu Uji Coba",
-  "promo_id": "3"
+  "video_url": "lB_3iT3tpqk"
 },
 {
   "_id": {
     "$oid": "64c2cb5d849d31ec9f0e2d6a"
   },
   "video_id": {
-    "$oid": "64c2c9bb39d31e52f0e24552"
+    "$oid": "64c2cb5d849d31ec9f0e2d6a"
   },
-  "thumbnail_url": "https://crewdible-pub.s3.ap-southeast-1.amazonaws.com/blog/cara%20bisnis%20online%20baju.jpg",
+  "thumbnail_url": "https://img.youtube.com/vi/nXLLe4f6Wcs/0.jpg",
   "title": "KEMEJA KEREN UNTUK KERJA",
   "shop": "Toko Baju Midterm",
-  "promo_id": "3"
+  "video_url": "nXLLe4f6Wcs"
+},
+{
+  "_id": {
+    "$oid": "64da86fe5d0c4e52b4e21f7a"
+  },
+  "video_id": {
+    "$oid": "64da86fe5d0c4e52b4e21f7a"
+  },
+  "thumbnail_url": "https://img.youtube.com/vi/S-HDc0h3e_4/0.jpg",
+  "title": "GADGET KEREN 2 JUTAAN!!!",
+  "shop": "GadgetIn",
+  "video_url": "S-HDc0h3e_4"
+},
+{
+  "_id": {
+    "$oid": "64da871a5d0c4e52b4e21f7c"
+  },
+  "video_id": {
+    "$oid": "64da871a5d0c4e52b4e21f7c"
+  },
+  "thumbnail_url": "https://img.youtube.com/vi/ltPUUrwFjlU/0.jpg",
+  "title": "LAPTOP BUAT MAHASISWA ARSITEKTUR!",
+  "shop": "Teknologi Bening",
+  "video_url": "ltPUUrwFjlU"
+},
+{
+  "_id": {
+    "$oid": "64da931269ad44c4a7a416d9"
+  },
+  "video_id": {
+    "$oid": "64da931269ad44c4a7a416d9"
+  },
+  "thumbnail_url": "https://img.youtube.com/vi/02ryL1zNsho/0.jpg",
+  "title": "KIPAS ANGIN MERIAH!",
+  "shop": "Wades Des",
+  "video_url": "02ryL1zNsho"
 }]

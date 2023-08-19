@@ -5,13 +5,14 @@
   "product_id": {
     "$oid": "64c2c7da849d31ec9f0e2d3b"
   },
-  "price": 20000,
-  "rating": 9,
-  "product_url": "https://www.google.com",
+  "price": 179000,
+  "rating": 3.5,
+  "product_url": "https://www.tokopedia.com/elvrastore/elvra-footwear-sepatu-putih-pria-sneaker-sekolah-dash-full-white-40?extParam=ivf%3Dfalse&src=topads",
   "video_id": {
-    "$oid": "64c2c9bb849d31ec9f0e2d4b"
+    "$oid": "64c2b47b929abb279031de3b"
   },
-  "product_name": "SEPATU PUTIH"
+  "product_name": "SEPATU PUTIH",
+  "product_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/7/a1635721-0f8d-4580-a427-24bcdea55791.jpg"
 },
 {
   "_id": {
@@ -20,13 +21,14 @@
   "product_id": {
     "$oid": "64c2c7da849d31ec9f0e2d3b"
   },
-  "price": 20500,
-  "rating": 9,
-  "product_url": "https://www.google.com",
+  "price": 400000,
+  "rating": 4,
+  "product_url": "https://www.tokopedia.com/nokha/nokha-sepatu-boots-pria-khalee-all-black-hitam-40?extParam=ivf%3Dfalse&src=topads",
   "video_id": {
-    "$oid": "64c2c9bb39d31e52f0e24552"
+    "$oid": "64c2b47b929abb279031de3b"
   },
-  "product_name": "KEMEJA PUTIH"
+  "product_name": "SEPATU BOOTS HITAM",
+  "product_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/10/21/833ece13-e010-408f-8e9f-b16a8a2940e1.jpg"
 },
 {
   "_id": {
@@ -35,11 +37,76 @@
   "product_id": {
     "$oid": "64c2c7da849d31ec9f0e2d3b"
   },
-  "price": 25000,
-  "rating": 7,
-  "product_url": "https://www.google.com",
+  "price": 170000,
+  "rating": 4.5,
+  "product_url": "https://www.tokopedia.com/rpmstore1/sepatu-futsal-casual-ortuseight-spatu-futsal-merah-premium-ortus-merah-39?extParam=ivf%3Dtrue&src=topads",
   "video_id": {
-    "$oid": "64c2c9bb39d31e52f0e24552"
+    "$oid": "64c2b47b929abb279031de3b"
   },
-  "product_name": "KEMEJA GARIS-GARIS"
+  "product_name": "SEPATU FUTSAL MERAH",
+  "product_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/11/6/0cb2db9f-6bb0-488f-85c0-79daaf811b3e.png"
+},
+{
+  "_id": {
+    "$oid": "64dab83569ad44c4a7a416ea"
+  },
+  "product_id": {
+    "$oid": "64c2c7da849d31ec9f0e2d3b"
+  },
+  "price": 170000,
+  "rating": 4.5,
+  "product_url": "https://www.tokopedia.com/tenuedeattire/kemeja-polo-knit-cozy-knit-polo-olive-grey-l",
+  "video_id": {
+    "$oid": "64c2cb5d849d31ec9f0e2d6a"
+  },
+  "product_name": "Kemeja Polo Knit - Cozy Knit Polo - Olive Grey - L",
+  "product_thumbnail": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2023/6/15/5bf48fea-c166-4f2c-9e29-65486f10a74b.jpg"
+},
+{
+  "_id": {
+    "$oid": "64dab84369ad44c4a7a416eb"
+  },
+  "product_id": {
+    "$oid": "64c2c7da849d31ec9f0e2d3b"
+  },
+  "price": 170000,
+  "rating": 4.5,
+  "product_url": "https://www.tokopedia.com/samsung/samsung-galaxy-z-fold5-12-512gb-smartphone-free-upgrade-from-256gb-cream",
+  "video_id": {
+    "$oid": "64da86fe5d0c4e52b4e21f7a"
+  },
+  "product_name": "Samsung Galaxy Z Fold5 ",
+  "product_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/7/24/c58df3eb-01ed-4a65-9957-139db63d87c7.jpg"
+},
+{
+  "_id": {
+    "$oid": "64dab85069ad44c4a7a416ec"
+  },
+  "product_id": {
+    "$oid": "64c2c7da849d31ec9f0e2d3b"
+  },
+  "price": 170000,
+  "rating": 4.5,
+  "product_url": "https://www.tokopedia.com/octalcomputer/lenovo-thinkpad-like-new-t480-i5-gen-8-32-512-full-hd-ips-win-ori-8gb-ssd-128gb-t480-i5-gen8?extParam=ivf%3Dfalse%26src%3Dsearch",
+  "video_id": {
+    "$oid": "64da871a5d0c4e52b4e21f7c"
+  },
+  "product_name": "Lenovo Thinkpad T480-i5",
+  "product_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/7/15/280bc693-2fa0-4520-8c84-3f0a7c8168e8.png"
+},
+{
+  "_id": {
+    "$oid": "64dab85b69ad44c4a7a416ed"
+  },
+  "product_id": {
+    "$oid": "64c2c7da849d31ec9f0e2d3b"
+  },
+  "price": 170000,
+  "rating": 4.5,
+  "product_url": "https://www.tokopedia.com/wlselc/kipas-angin-cosmos-16-s088-3-in-1-remote-wadesta?extParam=ivf%3Dfalse%26src%3Dsearch",
+  "video_id": {
+    "$oid": "64da931269ad44c4a7a416d9"
+  },
+  "product_name": "KIPAS ANGIN COSMOS WADES DES",
+  "product_thumbnail": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/4/13/c4f4b20e-597d-42e1-bc7d-30a22782207e.jpg"
 }]
